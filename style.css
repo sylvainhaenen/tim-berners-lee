@@ -1,0 +1,8 @@
+.typo {
+    font-family: 'Open Sans', sans-serif;
+}
+.rond {
+    border-radius: 130px;
+    border: 30px;
+    border-color:gray;
+}
